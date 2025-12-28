@@ -51,7 +51,7 @@ In today’s fast-paced world, booking hospital appointments manually can be tim
 ---
 
 ## 📂 Project Structure
-
+'
 DocSpot-Seamless-Appointment-Booking-for-Health/
 │
 ├── client/ # React Frontend
@@ -72,7 +72,7 @@ DocSpot-Seamless-Appointment-Booking-for-Health/
 │ └── package.json
 │
 └── README.md
-
+'
 
 ---
 
@@ -97,5 +97,5 @@ cd client
 npm install
 npm start
  ## ▶️ How to Run the Application
-Frontend URL:  http://localhost:3000
-Backend API URL:  http://localhost:5000
+Frontend URL:  ' http://localhost:3000 '
+Backend API URL: ' http://localhost:5000 '
