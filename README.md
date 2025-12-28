@@ -51,7 +51,7 @@ In today’s fast-paced world, booking hospital appointments manually can be tim
 ---
 
 ## 📂 Project Structure
-
+'''
 DocSpot-Seamless-Appointment-Booking-for-Health/
 │
 ├── client/ # React Frontend
@@ -72,7 +72,7 @@ DocSpot-Seamless-Appointment-Booking-for-Health/
 │ └── package.json
 │
 └── README.md
-
+'''
 
 ---
 
